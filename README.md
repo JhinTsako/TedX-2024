@@ -1,6 +1,7 @@
 # TedX-2024
 A Unity 3D two player game made for a University event.<br>
-We had 3 days to finish this and we were glad its working properly and is playable.
+We had 3 days to finish this and we were glad its working properly and is playable.<br>
+There is no build in the repo only the project as a whole.
 
 ## Reminder
 Its a 2-player game, although you can play alone its recommended to have a second player for the full experience.
